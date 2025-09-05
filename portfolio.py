@@ -82,7 +82,7 @@ if page == "🏠 Home":
     st.markdown("""
     <div class="main-header">
         <h1>🎨 Ashish M Y</h1>
-        <h2>Junior Content Creator & Visual Storyteller</h2>
+        <h2>Content Creator & Visual Storyteller</h2>
         <p>Creating content that doesn't just inform—it inspires and connects</p>
     </div>
     """, unsafe_allow_html=True)
