@@ -3,17 +3,17 @@
 # Replace:
 [your.email@gmail.com]
 # With:
-ashish.your.actual.email@gmail.com
+ashishmyashish0540@gmail.com
 
 # Replace:
 [+91-XXXXX-XXXXX]  
 # With:
-+91-98765-43210  # Your actual number
++91-6361463186  # Your actual number
 
 # Replace:
 [linkedin.com/in/yourprofile]
 # With:
-linkedin.com/in/ashish-content-creator  # Your actual LinkedIn
+linkedin.com/in/ashishmy64  # Your actual LinkedIn
 
 # Replace:
 [your-portfolio-site.com]
