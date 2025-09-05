@@ -371,12 +371,11 @@ elif page == "📞 Contact":
         
         st.markdown("""
         <div class="contact-info">
-            <strong>📧 Email:</strong> [your.email@gmail.com]<br>
-            <strong>📱 Phone:</strong> [+91-XXXXX-XXXXX]<br>
+            <strong>📧 Email:</strong>ashishmyashish0540@gmail.com<br>
+            <strong>📱 Phone:</strong> [+91-6361463186]<br>
             <strong>📍 Location:</strong> Bengaluru, Karnataka<br>
             <strong>🎓 Institution:</strong> Alliance School of Advanced Computing<br>
-            <strong>💼 LinkedIn:</strong> [linkedin.com/in/yourprofile]<br>
-            <strong>🌐 Portfolio:</strong> [your-portfolio-site.com]
+            <strong>💼 LinkedIn:</strong> [linkedin.com/in/ashishmy65]<br>
         </div>
         """, unsafe_allow_html=True)
         
